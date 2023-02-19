@@ -1,5 +1,18 @@
 {
   "projects": {
     "default": "mypage-93215"
-  }
+  },
+  "targets": {
+    "mypage-93215": {
+      "hosting": {
+        "mypage-93215": [
+          "mypage-93215"
+        ],
+        "motemagedon": [
+          "motemagedon"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
